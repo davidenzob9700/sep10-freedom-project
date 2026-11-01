@@ -1,16 +1,31 @@
 # Content
-Topic: **X**
+Topic: **architechtural engineering/drawing**
 
 ## Overview/Introduction/Context
-* Text
-* Text
+* I am looking at possible career/ application options related to architectural engineering/drawing.
+* I am looking at options where I can use my creativity.
 
 ## Part A: existing technology
 
 ##### Software
-* Tech
-  * Detail
-  * [image text](image URL)
+* 1st thing I googled was architechtural engineering websites.
+* 1st website I looked at was https://edgnyc.com/
+  * Has details about past projects the company worked on
+  * Has details about design projects they have done
+  * Includes restoration projects and about page explaining the purpose and team of the company
+  * [Edg Logo]([image URL](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW73WoTG0jRKjw1bxOlBHZiWHStwG8h0MXl7AVgzyWw84vuIYBnWl8pds&s=10))
+* 2nd website I looked at was AEI (Architectural Engineering Intitute), which is part of the ASCE (American Society of Civil Engineers). https://www.asce.org/communities/institutes-and-technical-groups/architectural-engineering-institute
+  * Has information about the company
+  * Provides info about future events and past events
+  * Has services about memberships, News, Leadership, AEI Build, Publications, and Awards
+  * Provides multiple programs and learning opportunities like events
+  * [AEI Logo]([image URL](https://www.asce.org/-/media/images/asce/institute-shields/aei.png?h=156&iar=0&w=134&hash=451E9E5C08FE0E60A29C1B015C16D2EE))
+* 3rd website I looked into was BRPH. https://www.brph.com/
+  * Has information about past projects and companies they've helped.
+  * Has information on career paths and job openings for those who are interested.
+  * Provides resources of Career options and news.
+  * [BRPH Logo](https://www.brph.com/wp-content/uploads/2022/06/brphlogo3.png)
+    
 
 ##### Hardware
 * Tech
