@@ -28,14 +28,17 @@ Topic: **architechtural engineering/drawing**
     
 
 ##### Hardware
+*The 1st thing I googled was archtectural engineering hardware.
 * AMD https://www.amd.com/en/products/workstations/architecture-and-engineering.html
   * Provides multiple CPUs for work and design.
   * Has multiple different processors for work and design.
   * Provides exstensive info about each product.
   * [AMD Logo](https://upload.wikimedia.org/wikipedia/commons/6/6a/AMD_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original))
-* Tech
-  * Detail
-  * [image text](image URL)
+* EngineerSupply https://www.engineersupply.com/?srsltid=AYCX9vLT9kEMhtN1yxmnd76ItCucpEW2NixeX-sganPDWqie2nnB_rEb
+  * Product Dealer that has multiple different building and construction products for architechture.
+  * Products Range from generators, construction lasers, Surveying Equipment, to utilities like measurement wheels and tripods.
+  * Has products from different popular construction brands.
+  * [EngineeringSupply Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4Kzx5Cv6-hbjH5LI2rEx-3bGcXtiT3MHvJ5Pd5UVf4MxvKZCRK3rt1qfw&s=10)
 * Tech
   * Detail
   * [image text](image URL)
