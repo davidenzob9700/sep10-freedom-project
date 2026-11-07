@@ -39,9 +39,11 @@ Topic: **architechtural engineering/drawing**
   * Products Range from generators, construction lasers, Surveying Equipment, to utilities like measurement wheels and tripods.
   * Has products from different popular construction brands.
   * [EngineeringSupply Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4Kzx5Cv6-hbjH5LI2rEx-3bGcXtiT3MHvJ5Pd5UVf4MxvKZCRK3rt1qfw&s=10)
-* Tech
-  * Detail
-  * [image text](image URL)
+* Simpson Strong-Tie https://www.strongtie.com/
+  * Has structure reinforced tools and utilities.
+  * Has multiple products to support and attach materials to each other.
+  * Provides multiple solutions for architectural problems and tools.
+  * [Simpson Strong-Tie logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKI4tNG8ro2RdQXKzrhCTgdNqJM8Eo3joFxDBfovfYuC1Y9NTveJsr-9E&s=10)
 
 ## Part B: possible future technology
 * Idea
